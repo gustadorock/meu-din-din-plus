@@ -1,46 +1,39 @@
-# Welcome to your Expo app 👋
+# Meu Din Din Plus
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo mobile de controle financeiro desenvolvido com React Native, Expo e Supabase.
 
-## Get started
+## Funcionalidades
 
-1. Install dependencies
+* Cadastro e login de usuários
+* Registro de receitas e despesas
+* Dashboard financeiro
+* Gráficos de desempenho
+* Extrato completo
+* Perfil do usuário
+* Upload de foto de perfil
+* Armazenamento em nuvem
 
-   ```bash
-   npm install
-   ```
+## Tecnologias
 
-2. Start the app
+* React Native
+* Expo
+* TypeScript
+* Supabase
+* PostgreSQL
+* Expo Router
+* React Native Chart Kit
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## Como executar
 
 ```bash
-npm run reset-project
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Autor
 
-## Learn more
+Gustavo Batista
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
 ## Join the community
 
